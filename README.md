@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akansh Maurya
+- 👋 Hi, I’m Akansh Maurya. (He/Him)
 - 👀 I’m interested in Deep Learning 
 - 🌱 I’m currently learning computer vision and audio processing. 
 - 💞️ I’m looking to collaborate on Computer Vision projects
