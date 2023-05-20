@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akansh Maurya.
-- 👀 I’m interested in Application of AI in Healthcare.  
-- 🌱 I’m currently learning Medical Imaging and Audio signal processing. 
-- 💞️ I’m looking to collaborate on Computer Vision projects
+- 👀 I’m interested in Application of AI.  
+- 🌱 I’m currently Masters student in visual computing. 
+- 💞️ I’m looking to collaborate on Computer Vision projects. 
 - 📫 How to reach me akanshmaurya@gmail.com
 
 
