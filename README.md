@@ -2,7 +2,7 @@
 - 👀 I’m interested in Application of AI.  
 - 🌱 I’m currently Masters student in visual computing. 
 - 💞️ I’m looking to collaborate on Computer Vision projects. 
-- 📫 How to reach me akanshmaurya@gmail.com
+- 📫 How to reach me akanshmaurya@gmail.com, https://akansh12.github.io/
 
 
 
