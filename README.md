@@ -3,7 +3,7 @@
 - 🌱 I’m currently Masters student in visual computing. 
 - 💞️ I’m looking to collaborate on Computer Vision projects. 
 - 📫 How to reach me akanshmaurya@gmail.com
-- [![Github](https://visitor-badge.laobi.icu/badge?page_id=akansh12.akansh12)](https://github.com/akansh12)
+- https://akansh12.github.io/
 
 
 ### Connect with me:
