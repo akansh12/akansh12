@@ -23,8 +23,6 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akansh12&count_private=true&show_icons=true&layout=compact&theme=vue)](https://github.com/akansh12)
-
 <!---
 akansh12/akansh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
