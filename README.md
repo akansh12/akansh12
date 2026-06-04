@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Akansh Maurya.
-- 👀 I’m interested in Application of AI.  
-- 🌱 I’m currently Masters student in visual computing. 
-- 💞️ I’m looking to collaborate on Computer Vision projects. 
-- 📫 How to reach me akanshmaurya@gmail.com
+- 👀 I’m interested in ML theory.  
+- 🌱 I’m currently a PhD student at CISPA Helmholtz Center for Information Security and Universität des Saarlandes.
+- 💞️ I’m looking to collaborate on computer vision projects, learning theory, and model merging. 
+- 📫 How to reach me: akanshmaurya@gmail.com
 - https://akansh12.github.io/
 
 
@@ -25,5 +25,5 @@
 
 <!---
 akansh12/akansh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
