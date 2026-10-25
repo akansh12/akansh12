@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akansh Maurya.
-- 👀 I’m interested in ML theory.  
+- 👀 I’m interested in ML theory and its application.   
 - 🌱 I’m currently a PhD student at CISPA Helmholtz Center for Information Security and Universität des Saarlandes.
 - 💞️ I’m looking to collaborate on computer vision projects, learning theory, and model merging. 
 - 📫 How to reach me: akanshmaurya@gmail.com
